@@ -8,7 +8,7 @@
         "php": ">=5.5.9",
         "laravel/lumen-framework": "5.2.*",
         "vlucas/phpdotenv": "~2.2",
-        "socialiteproviders/qq": "^2.0"
+        "socialiteproviders/twitter": "^2.0"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
